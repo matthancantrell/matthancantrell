@@ -1,4 +1,4 @@
-<h2>Howdy! I'm Matthan Cantrell!</h2>
+<h2>Hello! I'm Matthan Cantrell!</h2>
 <p><em>Undergrad @ Neumont College Of Computer Science</em></p>
 <p><em>Associate Software Engineer @ NICE CXone</em></p>
 
